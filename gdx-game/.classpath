@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/piers/Documents/Lands-Of-Furry/gdx-game/libs/gdx.jar"/>
+	<classpathentry kind="lib" path="C:/Users/piers/Documents/Lands-Of-Furry/gdx-game/libs/gdx-backend-jglfw.jar"/>
+	<classpathentry kind="lib" path="C:/Users/piers/Documents/Lands-Of-Furry/gdx-game/libs/gdx-backend-jglfw-natives.jar"/>
+	<classpathentry kind="lib" path="C:/Users/piers/Documents/Lands-Of-Furry/gdx-game/libs/gdx-backend-lwjgl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/piers/Documents/Lands-Of-Furry/gdx-game/libs/gdx-backend-lwjgl-natives.jar"/>
+	<classpathentry kind="lib" path="C:/Users/piers/Documents/Lands-Of-Furry/gdx-game/libs/gdx-controllers.jar"/>
+	<classpathentry kind="lib" path="C:/Users/piers/Documents/Lands-Of-Furry/gdx-game/libs/gdx-controllers-desktop.jar"/>
+	<classpathentry kind="lib" path="C:/Users/piers/Documents/Lands-Of-Furry/gdx-game/libs/gdx-controllers-desktop-natives.jar"/>
+	<classpathentry kind="lib" path="C:/Users/piers/Documents/Lands-Of-Furry/gdx-game/libs/gdx-controllers-gwt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/piers/Documents/Lands-Of-Furry/gdx-game/libs/gdx-natives.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
